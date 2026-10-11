@@ -1,0 +1,51 @@
+
+[
+  {
+    "id": 1,
+    "name": "Gaming Kulaklık",
+    "category": "Aksesuar",
+    "description": "Konforlu tasarım, güçlü ses ve oyunlarda net iletişim.",
+    "price": 2499,
+    "imagePath": "assets/image/Headphones.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mekanik Klavye",
+    "category": "Aksesuar",
+    "description": "Hassas tuşlar ve uzun ömürlü mekanik anahtarlar.",
+    "price": 3299,
+    "imagePath": "assets/image/Keyboard.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Akıllı Telefon",
+    "category": "Telefon",
+    "description": "Güçlü performans ve günlük kullanım için modern tasarım.",
+    "price": 24999,
+    "imagePath": "assets/image/Smartphone.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Gaming Mouse",
+    "category": "Aksesuar",
+    "description": "Hassas sensör ve ergonomik oyuncu tasarımı.",
+    "price": 1499,
+    "imagePath": "assets/image/Mouse.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dizüstü Bilgisayar",
+    "category": "Bilgisayar",
+    "description": "İş, yazılım geliştirme ve eğlence için güçlü bilgisayar.",
+    "price": 42999,
+    "imagePath": "assets/image/Laptop.png"
+  },
+  {
+    "id": 6,
+    "name": "Akıllı Saat",
+    "category": "Telefon",
+    "description": "Günlük aktivitelerini takip eden şık akıllı saat.",
+    "price": 4999,
+    "imagePath": "assets/image/watch.jpg"
+  }
+]
